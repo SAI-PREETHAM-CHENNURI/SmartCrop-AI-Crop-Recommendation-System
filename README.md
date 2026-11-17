@@ -49,7 +49,7 @@ This is an educational/research prototype, not a validated agronomic advisory to
 Repository contents
 
 
-SmartCrop_AI.ipynb — full experiment and recommendation workflow
+crop.ipynb — full experiment and recommendation workflow
 
 requirements.txt — Python package dependencies
 
